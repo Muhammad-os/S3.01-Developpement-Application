@@ -16,7 +16,7 @@ L'enjeu principal de cette première semaine était de poser des fondations soli
     *   J'ai structuré le projet selon le modèle MVC en créant un dossier `public/` et un dossier `src/` pour empêcher les failles d'inclusion.
     *   J'ai configuré la protection des mots de passe de la base de données en créant un fichier `.env` bloqué par Git, et un `.env.example` partagé pour l'équipe.
 *   **Gestion du code source :**
-    *   Création de scripts d'automatisation PowerShell pour générer l'arborescence du projet.
+    *   Création de scripts PowerShell pour générer l'arborescence du projet.
     *   Synchronisation réussie avec l'équipe (gestion des `pull`, `commit` et `push`).
 *   **Rédaction de documentation :**
     *   Rédaction du Livrable 3 en justifiant nos choix technologiques (PostgreSQL plutôt que MariaDB, utilisation du JS sans utilisation de jQuery, etc.).
