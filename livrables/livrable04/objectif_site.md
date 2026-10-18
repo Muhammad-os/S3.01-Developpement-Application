@@ -1,12 +1,12 @@
 # Livrable 4 : Objectif du site
 
-## 1 – Le but de l’application
+## 1. Le but de l’application
 
 L’objectif principal de ce projet est de développer un système d’information sur le cinéma et l’audiovisuel. On va pour cela exploiter les données présentes sur IMDb. 
 Ce ne sera pas un simple affichage de ces données brutes mais il proposera également des informations calculées et croisées, permettant aux utilisateurs de découvrir des liens entre les films et les séries comme des acteurs en commun, une date de sortie commune...
 Dans un second temps, pour enrichir notre base, nous prévoyons de fusionner ces données IMDb avec d'autres sources d'informations secondaires.
 
-## 2 – Le public visé
+## 2. Le public visé
 Notre application s'adresse à un public assez large, mais on peut distinguer trois profils principaux :
 
 1. **Le grand public :** Des personnes qui cherchent simplement des informations classiques sur un film, une série ou le casting d'une œuvre.
@@ -17,7 +17,7 @@ Notre application s'adresse à un public assez large, mais on peut distinguer tr
 
 Pour cibler au mieux notre interface, nous définirons ces profils de manière beaucoup plus détaillée un peu plus tard dans le projet, grâce à la création de "personas" prévus pour le livrable 9.
 
-## 3 – Les particularités du site
+## 3. Les particularités du site
 Pour répondre aux exigences du projet, notre application intégrera plusieurs fonctionnalités clés qui vont au-delà d'un simple affichage de base de données :
 
 * **Consultation fluide des données :** Le site proposera des fiches détaillées dédiées aux œuvres (films, séries) et aux professionnels (acteurs, réalisateurs). La navigation sera pensée pour passer facilement d'une fiche à l'autre.
