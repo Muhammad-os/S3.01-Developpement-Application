@@ -20,6 +20,9 @@ Pour cibler au mieux notre interface, nous définirons ces profils de manière b
 Pour répondre aux exigences du projet, notre application intégrera plusieurs fonctionnalités clés qui vont au-delà d'un simple affichage de base de données :
 
 * **Consultation fluide des données :** Le site proposera des fiches détaillées dédiées aux œuvres (films, séries) et aux professionnels (acteurs, réalisateurs). La navigation sera pensée pour passer facilement d'une fiche à l'autre.
+
 * **Moteurs de recherche performants :** Outre une recherche simple classique, nous développerons une recherche avancée. Celle-ci permettra de filtrer les résultats et intégrera un algorithme de recherche approximative pour corriger ou tolérer les erreurs de frappe des utilisateurs.
+
 * **Fonctions d'analyse et de croisement :** L'utilisateur pourra sélectionner deux entités (deux films ou deux personnes) pour faire ressortir leurs points communs, comme lister les acteurs qui ont joué dans deux films spécifiques. Le site implémentera également un algorithme basé sur la théorie des graphes. Il sera capable de calculer et d'afficher la chaîne de relations la plus courte reliant deux personnes ou deux films (par exemple, relier deux acteurs via les films dans lesquels ils ont tourné).
+
 * **La sécurité dès la conception (Security by Design) :** La protection des données est une priorité. L'application intégrera des mesures strictes telles que l'utilisation de requêtes préparées (PDO) pour empêcher les injections SQL, et des protections contre les failles XSS. De plus, afin de simplifier la gestion légale liée au RGPD, nous avons fait le choix délibéré de ne collecter aucune donnée personnelle sur nos utilisateurs.
