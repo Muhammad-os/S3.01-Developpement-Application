@@ -6,7 +6,7 @@
 
 * **Découverte du projet :** Lecture complète et analyse du cahier des charges de la SAÉ 3.01 (Base de données de films). Cela m'a permis de bien cerner les objectifs, les contraintes techniques et ce qui est attendu pour la fin de l'année.
   
-* **Organisation et répartition :** Réunion de groupe avec Ilyass et Mousa. Nous avons discuté de la marche à suivre, validé le planning des managers et réparti les tâches pour les premiers rendus exigés pour le 18 octobre.
+* **Organisation et répartition :** Réunion de groupe. Nous avons discuté de la marche à suivre, validé le planning des managers et réparti les tâches pour les premiers rendus exigés pour le 18 octobre.
   
 * **Rédaction du Livrable 4 :** J'ai pris en charge la rédaction de la note de cadrage (Livrable 4). J'ai structuré et détaillé les différentes parties du document :
   * Définition du but principal de l'application (exploitation des données IMDb).
