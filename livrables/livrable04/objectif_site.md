@@ -9,7 +9,9 @@ Dans un second temps, pour enrichir notre base, nous prévoyons de fusionner ces
 Notre application s'adresse à un public assez large, mais on peut distinguer trois profils principaux :
 
 1. **Le grand public :** Des personnes qui cherchent simplement des informations classiques sur un film, une série ou le casting d'une œuvre.
+
 2. **Les cinéphiles passionnés :** Des utilisateurs plus exigeants qui vont vraiment profiter des fonctionnalités de recherche avancée et de rapprochement pour découvrir des liens précis entre différents films ou acteurs.
+
 3. **Les professionnels du cinéma :** Des personnes qui ont besoin d'exploiter la base de données pour extraire des statistiques ou faire des recherches très spécifiques sur l'industrie.
 
 Pour cibler au mieux notre interface, nous définirons ces profils de manière beaucoup plus détaillée un peu plus tard dans le projet, grâce à la création de "personas" prévus pour le livrable 9.
