@@ -1,4 +1,4 @@
-# Màj du Dockerfile pour PSQL
+# Création du Dockerfile
 FROM php:8.2-apache
 
 # Activation de la réécriture d'URL
