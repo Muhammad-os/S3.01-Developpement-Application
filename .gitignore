@@ -5,3 +5,6 @@
 
 # Fichiers d'environnement
 *.env
+
+# Fichiers d'environnement
+*.env
