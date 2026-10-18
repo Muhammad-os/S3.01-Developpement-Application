@@ -1,4 +1,4 @@
-# Objectifs et périmètre de l'application (Livrable 4)
+# Livrable 4 : Objectif du site
 
 ## 1 – Le but de l’application
 L’objectif principal de ce projet est de développer un système d’information sur le cinéma et l’audiovisuel. On va pour cela exploiter les données présentes sur IMDb. 
