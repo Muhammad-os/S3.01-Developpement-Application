@@ -1,15 +1,16 @@
+# M√†j du Dockerfile pour PSQL
 FROM php:8.2-apache
 
-# Activation de la rÈÈcriture d'URL
+# Activation de la r√©√©criture d'URL
 RUN a2enmod rewrite
 
-# Installation des dÈpendances systËme pour PostgreSQL
+# Installation des d√©pendances syst√®me pour PSQL
 RUN apt-get update && apt-get install -y libpq-dev
 
-# Installation de l'extension PHP pour PostgreSQL
+# Installation de l'extension PHP
 RUN docker-php-ext-install pdo pdo_pgsql
 
-# SÈcuritÈ : on force le serveur ‡ pointer vers le dossier "public"
+# Pour la s√©curit√©, on force le serveur √† pointer vers le dossier "public"
 ENV APACHE_DOCUMENT_ROOT /var/www/html/public
 RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
 RUN sed -ri -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
