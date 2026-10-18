@@ -2,13 +2,9 @@
 
 ## 1 – Le but de l’application
 
-<div style="text-align: justify;">
-  
 L’objectif principal de ce projet est de développer un système d’information sur le cinéma et l’audiovisuel. On va pour cela exploiter les données présentes sur IMDb. 
 Ce ne sera pas un simple affichage de ces données brutes mais il proposera également des informations calculées et croisées, permettant aux utilisateurs de découvrir des liens entre les films et les séries comme des acteurs en commun, une date de sortie commune...
 Dans un second temps, pour enrichir notre base, nous prévoyons de fusionner ces données IMDb avec d'autres sources d'informations secondaires.
-
-</div>
 
 ## 2 – Le public visé
 Notre application s'adresse à un public assez large, mais on peut distinguer trois profils principaux :
