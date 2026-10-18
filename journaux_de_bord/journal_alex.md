@@ -1,2 +1,2 @@
-# Journal de bord - Alex
+# Journal de bord - Alex DRUZ-HAERTMANN
 
