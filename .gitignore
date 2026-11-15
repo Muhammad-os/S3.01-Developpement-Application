@@ -8,3 +8,9 @@
 
 # Fichiers d'environnement
 *.env
+
+# Donnees IMDb
+/data/
+
+# Logs performances
+/logs/

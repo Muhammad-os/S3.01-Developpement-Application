@@ -1,0 +1,9 @@
+date,fichier,taille_octets,duree_secondes
+2026-11-15 17:50:05,title.ratings.tsv.gz,8754824,1
+2026-11-15 18:33:03,title.basics.tsv.gz,230399464,5
+2026-11-15 18:33:09,name.basics.tsv.gz,312998451,6
+2026-11-15 18:33:24,title.principals.tsv.gz,790814465,15
+2026-11-15 18:33:26,title.crew.tsv.gz,84113774,2
+2026-11-15 18:33:27,title.ratings.tsv.gz,8754824,1
+2026-11-15 18:33:28,title.episode.tsv.gz,55479900,1
+2026-11-15 18:33:38,title.akas.tsv.gz,523260850,10

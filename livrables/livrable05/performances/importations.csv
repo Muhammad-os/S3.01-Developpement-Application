@@ -1,0 +1,17 @@
+date,mode,fichier,lignes,duree_secondes
+2026-11-15 19:55:44,test,title.basics,200,0
+2026-11-15 19:55:45,test,name.basics,200,1
+2026-11-15 19:55:45,test,title.principals,200,0
+2026-11-15 19:55:45,test,title.crew,200,0
+2026-11-15 19:55:45,test,title.ratings,200,0
+2026-11-15 19:55:45,test,title.episode,200,0
+2026-11-15 19:55:46,test,title.akas,200,1
+2026-11-15 19:55:46,test,transformation,200,0
+2026-11-15 20:11:30,test,title.basics,200,0
+2026-11-15 20:11:30,test,name.basics,200,0
+2026-11-15 20:11:30,test,title.principals,200,0
+2026-11-15 20:11:31,test,title.crew,200,0
+2026-11-15 20:11:31,test,title.ratings,200,0
+2026-11-15 20:11:31,test,title.episode,200,0
+2026-11-15 20:11:31,test,title.akas,200,0
+2026-11-15 20:11:31,test,transformation,200,0
